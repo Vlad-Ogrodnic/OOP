@@ -1,0 +1,3 @@
+C:/Users/Vlad/Downloads/OOP-master/OOP-master/cmake-build-debug/CMakeFiles/TEMA_OOP.dir
+C:/Users/Vlad/Downloads/OOP-master/OOP-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vlad/Downloads/OOP-master/OOP-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
